@@ -11,3 +11,7 @@ Part 4 : Model Evaluation
 Part 5 : Model Application - Recommend Movie To Users
 
 Part 6 : Model Application - Find The Similar Movies
+
+----About Dataset----
+
+The dataset is named "MovieLens Latest Datasets" and downloaded from "https://grouplens.org/datasets/movielens/latest/"
